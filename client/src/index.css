@@ -1,0 +1,56 @@
+﻿.icon-site {
+    height: 40px;
+    padding: 5px;
+}
+
+.pin-top {
+    top: 0px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #555555;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.2rem;
+}
+
+.wrapper {
+    width: auto
+}
+
+.open-projects-list {
+    width: auto;
+    margin: 10px auto;
+    padding: 20px;
+    background: #f4f4f4;
+    border: #ccc solid 1px;
+}
+
+.open-project-item {
+    /*border: #ccc solid 1px;*/
+    padding: 20px;
+    background: white;
+}
+
+.project-list {
+    border: #ccc solid 1px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+.open-project-search {
+    border: #ccc solid 1px;
+    background: #f4f4f4;
+    
+}
+
+.profile-layout {
+    /*border: #ccc solid 1px;*/
+    padding: 10px;
+    background: white;
+    width: auto;
+}
